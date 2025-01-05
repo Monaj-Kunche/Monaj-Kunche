@@ -3,7 +3,7 @@
 
 Hello, I am Kunche Manoj, and I love working on various new technologies and projects.
 
-- 👋 Hi, I’m Kunche Manoj.
+- 👋 Hi, I’m Monaj-Kunche.
   <img align="right" height="150" src="https://media.tenor.com/-vzvMjhtt8sAAAAj/one-piece-luffy.gif" />
 - 👀 I’m interested in Frontend Development and Modern Web Technologies.
 - 🌱 I’m currently working on a few fun projects.
@@ -13,11 +13,11 @@ Hello, I am Kunche Manoj, and I love working on various new technologies and pro
 
 <p align="center">
  <img width="50px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=KuncheManoj" alt="KuncheManoj"/> </p> 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Monaj-Kunche" alt="Monaj-Kunche"/> </p> 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KuncheManoj&theme=tokyonight&hide_border=true" alt="Github Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monaj-Kunche&theme=tokyonight&hide_border=true" alt="Github Streak Stats">
 </p>
 
 ### Tech Stack I am Familiar With:
@@ -38,12 +38,12 @@ Hello, I am Kunche Manoj, and I love working on various new technologies and pro
 
 # GitHub Stats 📈
 
-<a href="https://github.com/KuncheManoj">
-    <img src="https://github-readme-stats.vercel.app/api?username=KuncheManoj&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width="49%"/>
+<a href="https://github.com/Monaj-Kunche">
+    <img src="https://github-readme-stats.vercel.app/api?username=Monaj-Kunche&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" width="49%"/>
 </a>
 
-<a href="https://github.com/KuncheManoj?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuncheManoj&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" width="48%"/>
+<a href="https://github.com/Monaj-Kunche?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monaj-Kunche&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" width="48%"/>
 </a>
 
 <h3 align="center">Find me here:</h3>
